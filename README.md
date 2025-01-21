@@ -1,0 +1,1 @@
+A Razorpay clone built with HTML and CSS, featuring a static interface for payment link generation and transaction management.
